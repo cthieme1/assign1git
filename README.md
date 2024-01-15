@@ -2,4 +2,8 @@
 Cameron Thieme
 
 First Comment
-\nThis is a change on newbranch
+<<<<<<< HEAD
+This is a change on newbranch
+=======
+testbranch change
+>>>>>>> main
